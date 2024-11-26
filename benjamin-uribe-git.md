@@ -46,15 +46,57 @@ R) 1. Enfoque al cliente.
 ¿Qué es un SGSI? (3 pts)
 R) Un SGSI es un conjunto de principios o procedimientos que se utilizan para identificar 
 riesgos y definir los pasos de mitigación de riesgos.
+
 ¿Cuáles son los tres pilares de la seguridad de la información? (3 pts)
 R) Los tres pilares de la seguridad de la informacion son la confidencialidad, integridad y disponibilidad.
+
 ¿Qué describe la norma ISO 27001? (3 pts)
 R) La norma ISO 27001 es un estándar internacional que
 establece los requisitos para la implementación, mantenimiento y mejora continua
 de un Sistema de Gestión de la Seguridad de la Información.
+
 ¿Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001? (3 pts)
 R) Significa que este tipo de norma define cómo ejecutar un sistema; y en el caso de la ISO 27001, esta norma define 
 el sistema de gestión de seguridad de la información (SGSI). Por lo tanto, la certificación en ISO 27001 sí es posible.
+
 ¿En qué se basa el SGSI según la ISO 27001? (3 pts)
+R) El sistema de Gestion de Seguridad de la informacion(SGSI) se basa en la norma ISO 27001, la cual se centra en a gestion de riesgos para
+proteger la informacion de la organizacion.
+
 ¿Qué son los controles en la ISO 27001 y dónde se encuentran? (3 pts)
+R) Los controles de la ISO 27001 son medidas de seguridad que las organizaciones implementan para proteger 
+la información que almacenan. se aplica a cualquier tipo de organización, incluidas pequeñas y medianas empresas,
+grandes corporaciones, instituciones gubernamentales y organizaciones sin fines de lucro .
+
 ¿Por qué es importante el apoyo de la alta dirección? (2 pts)
+R) La alta dirección es responsable de establecer políticas, directrices y objetivos estratégicos, así como de proporcionar
+liderazgo y dirección para la gestión de la calidad dentro de la organización.
+
+¿Qué significa ITIL y cuál es su propósito? (3 pts)
+R) ITIL es un acrónimo que significa Information Technology Infrastructure Library o Biblioteca de Infraestructura 
+de Tecnologías de la Información,   es una metodología que sirve para organizar procesos de TI y guiar a los profesionales 
+para que realicen sus tareas de manera eficiente.
+
+Menciona tres principios fundamentales de ITIL. (3 pts)
+R) Tres principios fundamentales de ITIL son: 
+- Alinear la TI con los objetivos del negocio
+-  Adoptar un enfoque orientado al servicio
+-  Mejorar de forma continua.
+  
+¿Cuáles son los beneficios de implementar ITIL en una organización? (2 pts)
+R) Los beneficios para poder implementar ITIL en una organizacion son:
+   - Ofrece las mejores prácticas y está probado en todo el mundo. 
+   - Ayuda a mejorar la satisfacción del cliente.
+   - Asegura confiabilidad y calidad en el servicio. 
+   - Optimiza la entrega del servicio a través de la cadena de suministros.
+     
+Describe las cinco etapas del ciclo de vida del servicio según ITIL. (3 pts)
+R) Las cinco etapas del ciclo de vida del servicio según ITIL son: La Estrategia del servicio, 
+Diseño del servicio, Transición del servicio, Operación del servicio, Mejora continua del servicio. 
+
+¿Qué importancia tiene la "Mejora Continua del Servicio" en ITIL? (2 pts)
+R) El principal objetivo de ITIL mejora continua del servicio es mantener alineados los Servicios 
+con las necesidades cambiantes del negocio. Permite mejorar la eficiencia y efectividad de los servicios de ITIL.
+
+¿Por qué ITIL se considera un marco de trabajo valioso para las organizaciones? (2 pts)
+R) Porque el ITIL es un marco de trabajo valioso para las organizaciones porque les ayuda a mejorar sus capacidades de ITIL y a adaptarse a las necesidades del mercado.
